@@ -1,15 +1,21 @@
 # Q1093
 **Aprenda a Usar o Módulo Bluetooth HC-06 com Arduino**
 
-Projeto do Vídeo Q1089 Série **_Tutorial_Maker** powered by **_Petrobras_**
+Projeto do Vídeo Q1089 Série **_Tutorial Maker_** powered by **_Petrobras_**
 
 :video_camera: Assista o vídeo [CLIQUE AQUI](https://youtu.be/8AoFQc2J9xI)
 
 - Confira a série completa na Playlist [(Clique Aqui)](https://www.youtube.com/playlist?list=PL7CjOZ3q8fMfSiij6-3jm6nDhk7XdAp0p)
 
+:mortar_board: Aprenda a programar ARDUINO com nosso 
+- [Curso de Arduino para Principiantes](https://cursodearduino.net/principiantes/) 
+- [Curso de Arduino 2.0](https://cursodearduino.net/). 
+Com eles, você irá desenvolver sua própria lógica da programação e terá uma maior independencia, sem precisar copiar sketchs na internet.
 
-- Aprenda a programar ARDUINO com nosso [Curso de Arduino para Principiantes](https://cursodearduino.net/principiantes/) e o [Curso de Arduino 2.0](https://cursodearduino.net/). Com eles, você irá desenvolver sua própria lógica da programação e terá uma maior independencia, sem precisar copiar sketchs na internet.
+ :iphone: Todos os apps **Brincando com Ideias**: [CLIQUE AQUI](https://play.google.com/store/apps/developer?id=Brincando+com+Ideias&hl=pt_BR) 
 
+ - Aplicativo montTUDO 4 canais: [CLIQUE AQUI](https://play.google.com/store/apps/details?id=appinventor.ai_thiago_vilella.montTUDO_4_Canais)
+ - Aplicativo monTUDO robô: [CLIQUE AQUI](https://play.google.com/store/apps/details?id=appinventor.ai_flaviosg_2407.montTUDO_Robo)
 
 **Conheça nossas Redes Sociais:**
 
